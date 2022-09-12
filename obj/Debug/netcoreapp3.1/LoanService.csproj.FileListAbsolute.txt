@@ -1,0 +1,67 @@
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.AssemblyInfoInputs.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.AssemblyInfo.cs
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.csproj.CoreCompileInputs.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\LoanService.exe
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\LoanService.deps.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\LoanService.runtimeconfig.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\LoanService.runtimeconfig.dev.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\LoanService.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\LoanService.pdb
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\staticwebassets\LoanService.StaticWebAssets.Manifest.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\staticwebassets\LoanService.StaticWebAssets.xml
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoanService.styles.css
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.RazorTargetAssemblyInfo.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.pdb
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\LoanService\HpsV3Service\obj\Debug\netcoreapp3.1\LoanService.genruntimeconfig.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\LoanService.exe
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\LoanService.deps.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\LoanService.runtimeconfig.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\LoanService.runtimeconfig.dev.json
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\LoanService.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\LoanService.pdb
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.AssemblyInfoInputs.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.AssemblyInfo.cs
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.csproj.CoreCompileInputs.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\staticwebassets\LoanService.StaticWebAssets.Manifest.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\staticwebassets\LoanService.StaticWebAssets.xml
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\scopedcss\bundle\LoanService.styles.css
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.RazorTargetAssemblyInfo.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.dll
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.pdb
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.genruntimeconfig.cache
+C:\Users\princ\Desktop\Desktop\CVs\M-kopa Project\New folder\LoanService\obj\Debug\netcoreapp3.1\LoanService.csproj.CopyComplete
